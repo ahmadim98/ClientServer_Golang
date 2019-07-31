@@ -1,4 +1,4 @@
-# Client-server program in Golang
+# Client-server in Golang
 **This code was written for educational purposes only.**
 
 Simple Client-server program written in go , it has small features which include :-
